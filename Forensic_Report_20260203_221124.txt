@@ -1,0 +1,36 @@
+================================================================================
+CHRONOS FORENSICS REPORT - 20260203_221124
+================================================================================
+
+Target Analyzed: 
+System: Windows
+
+--------------------------------------------------------------------------------
+METADATA ANALYSIS
+--------------------------------------------------------------------------------
+File Path                                Size            Modified            
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+RECOVERED FILES
+--------------------------------------------------------------------------------
+File Name                                                    Status              
+--------------------------------------------------------------------------------
+recovered_evidence/carved_0.jpg                              Recovered           
+recovered_evidence/carved_1.jpg                              Recovered           
+recovered_evidence/carved_2.jpg                              Recovered           
+recovered_evidence/carved_3.jpg                              Recovered           
+recovered_evidence/carved_4.jpg                              Recovered           
+recovered_evidence/carved_5.jpg                              Recovered           
+recovered_evidence/carved_6.jpg                              Recovered           
+recovered_evidence/carved_7.jpg                              Recovered           
+recovered_evidence/carved_8.jpg                              Recovered           
+recovered_evidence/carved_9.jpg                              Recovered           
+recovered_evidence/carved_10.jpg                             Recovered           
+recovered_evidence/carved_11.jpg                             Recovered           
+recovered_evidence/carved_12.jpg                             Recovered           
+recovered_evidence/carved_13.jpg                             Recovered           
+recovered_evidence/carved_14.jpg                             Recovered           
+recovered_evidence/carved_15.zip                             Recovered           
+
+================================================================================
